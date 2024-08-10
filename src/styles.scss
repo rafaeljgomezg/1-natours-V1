@@ -1,1 +1,34 @@
-/* You can add global styles to this file, and also import other style files */
+@import "../public/assets/linea_fonts/Basic/icon-fonts-basic.css";
+
+@import "../public/assets/scss/abstract/variables";
+@import "../public/assets/scss/abstract/functions";
+@import "../public/assets/scss/abstract/mixins";
+
+@import "../public/assets/scss/base/base";
+@import "../public/assets/scss/base/animations";
+@import "../public/assets/scss/base/typography";
+@import "../public/assets/scss/base/utilities";
+
+
+@import "../public/assets/scss/components/button";
+@import "../public/assets/scss/components/composition";
+@import "../public/assets/scss/components/feature-box";
+@import "../public/assets/scss/components/cards";
+@import "../public/assets/scss/components/story";
+@import "../public/assets/scss/components/bg-video";
+@import "../public/assets/scss/components/form";
+@import "../public/assets/scss/components/popup";
+
+@import "../public/assets/scss/layout/header";
+@import "../public/assets/scss/layout/grid";
+@import "../public/assets/scss/layout/footer";
+@import "../public/assets/scss/layout/navigation";
+
+
+@import "../public/assets/scss/pages/home";
+
+
+
+
+
+
